@@ -53,9 +53,18 @@ flex-direction: column;
 justify-content: center;
 }
 
-nav a:hover{
+
+
+.a1:hover{
+    background-color: var(--main-dark);
+}
+.a2:hover{
     background-color: #45567d;
-} 
+}
+.a3:hover{
+    background-color: var(--main-gray);
+}
+
 
 #welcome-section{
 height: 65rem;
